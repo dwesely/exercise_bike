@@ -7,6 +7,8 @@ Monitors target and current exercise bike speed, user-selected workout.
 - Rotary encoder w/switch (KY-040 module)
 - Nano or Trinket m0?
 
+![bike_trainer_bb](https://user-images.githubusercontent.com/10471903/212333355-3747a07d-6b51-464d-8146-8b725fde48e5.png)
+
 ## Libraries:
 - FreqCount or FreqMeasure
 - TM1637Display
